@@ -1,4 +1,4 @@
-***📌 Libft – Custom C Standard Library***
+# 📌 Libft – Custom C Standard Library
 
 
 ***📝 Description***
@@ -69,3 +69,9 @@ This project is under the MIT License – feel free to use, modify, and distribu
 
 - 🖨️ [`ft_printf`](https://github.com/gaspardboidin/Printf) – A custom `printf` implementation.  
 - 📜 [`get_next_line`](https://github.com/gaspardboidin/Get_Next_Line) – Read a file line by line.
+
+## 🚀 About Me
+I'm a student at 42 Paris, you can see my profile on [Profil Intra](https://profile.intra.42.fr/users/gaboidin) !
+
+
+
